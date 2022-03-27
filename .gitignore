@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/intro-jest/node_modules
+/intro-jest/.pnp
+/intro-jest/.pnp.js
+
+# testing
+/intro-jest/coverage
+
+# production
+/intro-jest/build
+
+# misc
+/intro-jest/.DS_Store
+/intro-jest/.env.local
+/intro-jest/.env.development.local
+/intro-jest/.env.test.local
+/intro-jest/.env.production.local
+
+/intro-jest/npm-debug.log*
+/intro-jest/yarn-debug.log*
+/intro-jest/yarn-error.log*
